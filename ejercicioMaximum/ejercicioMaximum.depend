@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1617023445 source:c:\users\note\desktop\proyectos\utn\programacion i\ejerciciomaximum\main.c
+	<stdio.h>
+	<stdlib.h>
+	"numeroMayor.h"
+
+1617023360 c:\users\note\desktop\proyectos\utn\programacion i\ejerciciomaximum\numeromayor.h
+
+1617023417 source:c:\users\note\desktop\proyectos\utn\programacion i\ejerciciomaximum\numeromayor.c
+	"numeroMayor.h"
+

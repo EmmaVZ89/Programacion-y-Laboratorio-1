@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615861414 source:/home/emmautn/Escritorio/Proyectos/UTN/Programacion I/ejercicioCursoIngreso/main.c
+	<stdio.h>
+	<stdlib.h>
+

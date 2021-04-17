@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="referencia2/referencia2.cbp" />
+		<Project filename="referencia3/referencia3.cbp" />
+		<Project filename="referencia4/referencia4.cbp" />
+		<Project filename="referencia5/referencia5.cbp" />
+		<Project filename="recursiva/recursiva.cbp" />
+		<Project filename="Clase 2 Menu/Clase 2 Menu.cbp" />
+		<Project filename="factorialRecursivo/factorialRecursivo.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1616447946 source:/home/emmautn/Escritorio/Proyectos/UTN/Programacion I/Clase 2 Menu/main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1617301939 source:c:\users\note\desktop\proyectos\utn\programacion i\clase 2 menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"menuOpciones.h"
+
+1617301543 c:\users\note\desktop\proyectos\utn\programacion i\clase 2 menu\menuopciones.h
+
+1617301690 source:c:\users\note\desktop\proyectos\utn\programacion i\clase 2 menu\menuopciones.c
+	<stdio.h>
+	<stdlib.h>
+	"menuOpciones.h"
+

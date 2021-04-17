@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1616264301 source:/home/emmautn/Escritorio/Proyectos/UTN/Programacion I/Sabado 1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1616021731 source:/home/emmautn/Escritorio/Proyectos/UTN/Programacion I/LaboratorioEjercicioParcial/main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
